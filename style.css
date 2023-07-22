@@ -1,0 +1,54 @@
+.block {
+    border: dashed 4px rgb(158, 139, 139);
+    width: 45%;
+    height: 80%;
+    transform: translate(405px, 40px);
+}
+
+.area__blue {
+    border: dashed 4px rgb(158, 139, 139);
+    width: 150px;
+    height: 150px;
+    transform: translate(453px, 78px) scale(2) rotate(180deg);
+    text-align: center;
+    padding-top: 60px;
+}
+
+.area__red {
+    border: dashed 4px rgb(158, 139, 139);
+    width: 150px;
+    height: 150px;
+    transform: translate(302px, 273px);
+    text-align: center;
+    padding-top: 60px;
+}
+
+.area__green {
+    border: dashed 4px rgb(158, 139, 139);
+    width: 150px;
+    height: 150px;
+    transform: translate(132px, -244px) rotate(120deg);
+    text-align: center;
+    padding-top: 60px;
+}
+
+.blue {
+    background: #1123c0c4;
+    width: 150px;
+    height: 150px;
+    transform: translate(452px, -388px) scale(2);
+}
+
+.red {
+    background: #c00d0dbc;
+    width: 150px;
+    height: 150px;
+    transform: translate(302px, -177px);
+}
+
+.green {
+    background: #289136d4;
+    width: 150px;
+    height: 150px;
+    transform: translate(131px, -695px) rotate(30deg);
+}
